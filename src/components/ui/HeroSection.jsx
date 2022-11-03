@@ -10,7 +10,7 @@ const HeroSection = () => {
             <Row>
                 <Col lg='6' md='6'>
                     <div className="hero__content">
-                        <h2>Discover rare digital art and collect <span>sell extraordinary</span>NFTs</h2>
+                        <h2>Discover rare digital art and collect <span>sell extraordinary</span> NFTs</h2>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque alias distinctio at, consequuntur possimus, ipsa quaerat laudantium aliquid aut suscipit in officiis perspiciatis perferendis necessitatibus hic veritatis ullam iste reprehenderit!</p>
                         <div className="hero__btns d-flex align-items-center gap-4">
                             <button className='explore__btn d-flex align-items-center gap-2'>
